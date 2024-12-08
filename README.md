@@ -1,4 +1,4 @@
-Word cloud
+#Word cloud
 This Java project creates a visual representation of the letters "CSE 64K" surrounded by the names of classmates. It utilizes a grid-based approach to display the names within the shapes of the letters.
 
 Features:
