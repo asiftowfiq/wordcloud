@@ -1,4 +1,4 @@
-wordcloud
+#Wordcloud
 This Java project creates a visual representation of the letters "CSE 64K" surrounded by the names of classmates. It utilizes a grid-based approach to display the names within the shapes of the letters.
 
 Features:
@@ -15,6 +15,9 @@ How to Run:
 Clone the Repository: Clone this repository to your local machine.
 Compile: Compile the Java code using a Java compiler.
 Run: Execute the main method to launch the application.
+
 Output:
+![Screenshot 2024-12-08 213639](https://github.com/user-attachments/assets/dc1ec0a2-9963-4374-a79b-c4930bd6edb9)
+
 
 The program generates a visual representation of the letters "CSE 64K" filled with the names of your classmates, each with a randomly assigned color.
